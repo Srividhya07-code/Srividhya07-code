@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Navudu Shanmukha Srividhya
 
-<!--
-**Srividhya07-code/Srividhya07-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science & Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 Andhra University College of Engineering for Women
+
+💡 Aspiring Software Engineer passionate about Artificial Intelligence, Machine Learning, and Problem Solving.
+
+🌱 Currently learning:
+- Data Structures & Algorithms in Java
+- Machine Learning
+- Software Engineering
+- Web Development
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+Java • Python • C • C++ • SQL • JavaScript • PHP
+
+### Machine Learning
+Scikit-learn • Pandas • NumPy • Matplotlib
+
+### Web
+HTML • CSS • JavaScript • PHP • JSP
+
+### Core CS
+Data Structures
+Algorithms
+Operating Systems
+DBMS
+OOP
+Linux
+
+---
+
+## 🚀 Projects
+
+🚗 Car Price Prediction
+
+🎗 Breast Cancer Prediction
+
+🩺 Diabetes Prediction
+
+---
+
+## 📫 Contact
+
+📧 srividhyasri2007@gmail.com
+
+📍 Andhra Pradesh, India
+
+⭐ "Always learning. Always building."
